@@ -1,14 +1,8 @@
 # SenkoPets - Pet Taming with a Friendship System
 
-![SenkoPets System](https://cdn.modrinth.com/data/cached_images/2847badc505e458fd3b0f897abd9147281d01093.png)
-
 **A plugin that expands vanilla pet taming with a progressive friendship system and full pet management.** Tame seven pets, raise their friendship level, unlock unique abilities and control every pet from a convenient GUI.
 
 **This plugin is under active development** - new features are on the way. Stay tuned for the **Versions** section!
-
-## Requirements
-
-- **Datapack**: [Mob Heads](https://modrinth.com/datapack/mob-heads) - required for correct display of mob heads in the plugin menus.
 
 ## Features
 
